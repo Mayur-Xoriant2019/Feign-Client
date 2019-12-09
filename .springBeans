@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.xoriant.OrderService.OrderServiceApplication</config>
+		<config>java:com.xoriant.ProductService.ProductServiceApplication</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
